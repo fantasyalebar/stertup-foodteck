@@ -1,0 +1,14 @@
+body{
+	background-color:#B3B6B7;
+	color:#283747;
+	font-family: 'Century Gothic'; 
+	margin:0;
+}
+
+.title{
+	text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
